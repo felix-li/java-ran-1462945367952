@@ -3,6 +3,6 @@ applications:
   memory: 512M
   instances: 1
   domain: stage1.mybluemix.net
-  name: java-ran
-  host: java-ran
+  name: java-ran-felix
+  host: java-ran-felix
   disk_quota: 1024M
